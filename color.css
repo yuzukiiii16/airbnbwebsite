@@ -1,0 +1,19 @@
+/* --- 導覽列樣式 --- */
+.navbar-custom {
+    background-color:#494c48 ; /* ⭐️ 導覽列背景色 ⭐️ */
+}
+/* 選取導覽列中的「品牌名稱」和「導覽連結」 */
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #ffffff; /* ❗ 導覽列文字顏色 ❗ */
+}
+
+body {
+            background-color: #C1BCAC; /* ⭐️請更改整個網頁的背景顏色⭐️ */
+        }
+
+/* --- 頁尾樣式 --- */
+.footer-custom {
+    background-color: #494c48; /* ⭐️ 頁尾背景色 ⭐️ */
+    color: #ffffff;           /* ❗ 頁尾文字顏色 ❗ */
+}
